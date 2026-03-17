@@ -8,11 +8,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/AbdullahM07">
+    <img src="https://komarev.com/ghpvc/?username=AbdullahM07&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" alt="followers" />
+  <a href="https://github.com/AbdullahM07?tab=followers">
+    <img src="https://img.shields.io/github/followers/AbdullahM07?label=Followers&style=social" alt="followers" />
   </a>
 </p>
 
@@ -46,12 +46,12 @@ Full Stack Developer with a strong focus on building modern, maintainable, and u
 ## GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbdullahM07&show_icons=true&theme=default&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahM07&theme=default&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahM07&layout=compact&theme=default&hide_border=true" />
 </p>
 
 ---
@@ -64,8 +64,8 @@ Full Stack Developer with a strong focus on building modern, maintainable, and u
       <h3 align="center">Project One</h3>
       <p align="center">A full stack application focused on usability, performance, and scalable architecture.</p>
       <p align="center">
-        <a href="https://github.com/YOUR_USERNAME/PROJECT_ONE">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_ONE&theme=default&hide_border=true" />
+        <a href="https://github.com/AbdullahM07/PROJECT_ONE">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdullahM07&repo=PROJECT_ONE&theme=default&hide_border=true" />
         </a>
       </p>
     </td>
@@ -73,8 +73,8 @@ Full Stack Developer with a strong focus on building modern, maintainable, and u
       <h3 align="center">Project Two</h3>
       <p align="center">A modern web solution featuring responsive design, backend integration, and clean UX.</p>
       <p align="center">
-        <a href="https://github.com/YOUR_USERNAME/PROJECT_TWO">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_TWO&theme=default&hide_border=true" />
+        <a href="https://github.com/AbdullahM07/PROJECT_TWO">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdullahM07&repo=PROJECT_TWO&theme=default&hide_border=true" />
         </a>
       </p>
     </td>
