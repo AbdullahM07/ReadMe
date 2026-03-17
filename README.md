@@ -8,9 +8,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/AbdullahM07">
-    <img src="https://komarev.com/ghpvc/?username=AbdullahM07&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
   <a href="https://github.com/AbdullahM07?tab=followers">
     <img src="https://img.shields.io/github/followers/AbdullahM07?label=Followers&style=social" alt="followers" />
   </a>
